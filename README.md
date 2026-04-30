@@ -114,7 +114,7 @@ Be ready for:
 
 ---
 
-### 7. Use appendix strategically
+### 7. Use appendix (in the presentation) strategically
 
 IE → rarely used  
 Defense → strong advantage
